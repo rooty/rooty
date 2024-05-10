@@ -1,9 +1,12 @@
 ### Hi there 👋, my name is Vitalii
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rooty)](https://github.com/anuraghazra/github-readme-stats)
+
+Skills: Python / PHP / Perl / Go | DevOps / SRE
+
 <!--
 #### I am GitHub Readme Generator's creator
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Python / PHP / Perl / Go | DevOps / SRE
 
 - 🔭 I’m currently working on my firm 
 - 🌱 I’m currently learning golang 
@@ -11,7 +14,6 @@ Skills: Python / PHP / Perl / Go | DevOps / SRE
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rooty)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rooty/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/blackroty)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rooty)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
