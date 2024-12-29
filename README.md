@@ -1,6 +1,4 @@
-### Hi there 
-
-- 🔭 I’m currently working on my firm 
-- 🌱 I’m currently learning golang 
-- 🌱 I’m currently learning python
-- 🔭 I’m currently working on docker+vpn+proxy
+📫 How to reach me:
+Telegram: @blackrooty
+Email: rooty@sea.net.ua
+LinkedIn: https://www.linkedin.com/in/rooty/
