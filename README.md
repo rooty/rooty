@@ -16,5 +16,5 @@ Welcome to my GitHub profile! I'm passionate about programming, open-source cont
 
 📫 How to reach me:
 - **Telegram:** @blackrooty
-- **Email:** rooty@sea.net.ua
+- **Email:** rooty@chm.od.ua
 - **LinkedIn:** https://www.linkedin.com/in/rooty/
