@@ -9,11 +9,11 @@ Welcome to my GitHub profile! I'm passionate about programming, open-source cont
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Git, Docker, Kubernetes, Jenkins, Visual Studio Code
 - **Cloud:** AWS, Azure, Google Cloud
-  
+<!--  
 ## 📈 GitHub Stats
 
 ![rooty's GitHub stats](https://github-readme-stats.vercel.app/api?username=rooty&show_icons=true&theme=radical)
-
+-->
 📫 How to reach me:
 - **Telegram:** @blackrooty
 - **Email:** rooty@chm.od.ua
