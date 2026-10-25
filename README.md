@@ -18,6 +18,8 @@ Welcome to my GitHub profile! I'm passionate about programming, open-source cont
 - **Telegram:** @blackrooty
 - **Email:** rooty@chm.od.ua
 - **LinkedIn:** https://www.linkedin.com/in/rooty/
+- 
+[![Made in Ukraine](https://img.shields.io/badge/made_in-Ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 
 <a href="https://www.abuseipdb.com/user/43168" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
 	<img src="https://www.abuseipdb.com/contributor/43168.svg" alt="AbuseIPDB Contributor Badge" style="width: 200px;box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .2);">
